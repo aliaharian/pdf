@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'iransans';
+    font-style: normal;
+    font-weight: normal;
+    src: local('iransans'), local('iransans'), url('/fonts/iransans.svg') format('svg'),url('/fonts/iransans.ttf') format('trueType');
+}
+
+p,span,div{
+    text-align: center;
+ 
+    direction: rtl;
+    font-family: 'iransans';
+    color:red;
+}

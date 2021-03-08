@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="fas">
+  <head>
+    <meta content="93fa83f4-eff3-4b28-87c4-1fab986426b5" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (1.20.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>مدیر مدرسه</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>۱</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>۲</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0002.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>۳</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0003.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>۴</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0004.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>۵</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>۶</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0006.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>۷</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0007.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>۸</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0008.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>۹</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0009.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>۱ ۰</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0010.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>۱۱</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0010.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>۱۲</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0010.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>۱۳</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0010.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>۱۴</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0010.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>۱۵</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0010.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>۱۶</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0010.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>۱۷</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0010.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>۱۸</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0010.xhtml#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>۱۹</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0010.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+  </navMap>
+</ncx>

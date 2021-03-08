@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="calibre:rating" content="8.00"/>
+    <dc:description>&lt;div&gt;&lt;p&gt;A novel.&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>fa</dc:language>
+    <dc:creator opf:file-as="Al-Ahmad, Jalal" opf:role="aut">Jalal Al-Ahmad</dc:creator>
+    <meta name="calibre:timestamp" content="2013-08-02T23:40:26+00:00"/>
+    <meta name="calibre:title_sort" content="مدیر مدرسه"/>
+    <dc:publisher>Amir Kabir</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <dc:date>1979-01-15T05:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>مدیر مدرسه</dc:title>
+    <dc:identifier opf:scheme="ISBN">9789645509567</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">58255</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">9645509564</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">72RTMwEACAAJ</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">93fa83f4-eff3-4b28-87c4-1fab986426b5</dc:identifier>
+    <dc:identifier opf:scheme="calibre">93fa83f4-eff3-4b28-87c4-1fab986426b5</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="calibre_raster_cover.jpg" id="cover" media-type="image/jpeg" properties="cover-image"/>
+    <item href="OEBPS/Images/58255.jpg" id="x58255.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/cover1.jpeg" id="u7d0ca7a9-6b29-4b75-b672-badb9acc8697" media-type="image/jpeg"/>
+    <item href="OEBPS/Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Title Page.xhtml" id="Title_Page.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="plugininfo.kte" id="id" media-type="application/json"/>
+    <item href="kte-css/hyphenation.css" id="id1" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml"/>
+    <itemref idref="Title_Page.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="OEBPS/Text/Cover.xhtml" title="Cover" type="cover"/>
+    <reference href="OEBPS/Text/Cover.xhtml" title="Title Page" type="other.titlepage"/>
+    <reference href="OEBPS/Text/Title Page.xhtml" title="Title Page" type="title-page"/>
+    <reference href="OEBPS/Text/Section0001.xhtml" title="Text" type="text"/>
+  </guide>
+</package>
